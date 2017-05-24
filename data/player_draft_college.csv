@@ -1,0 +1,1268 @@
+,college,count
+3,UCLA,125
+23,Kentucky,123
+2,North Carolina,113
+33,Duke,90
+92,Kansas,85
+49,Indiana,83
+41,Illinois,75
+140,Louisville,74
+184,North Carolina State,71
+42,Michigan,70
+37,Notre Dame,69
+263,Arizona,68
+425,Maryland,68
+15,Syracuse,67
+68,St. John's,66
+72,Marquette,65
+155,Minnesota,62
+238,Cincinnati,62
+45,Villanova,61
+46,Iowa,61
+170,Kansas State,58
+20,Michigan State,58
+50,Western Kentucky,57
+121,Houston,57
+104,Oklahoma,57
+86,Washington,57
+66,DePaul,55
+38,Oregon State,55
+64,South Carolina,54
+16,Georgetown,54
+168,Ohio State,54
+196,California,53
+101,Tennessee,53
+218,Purdue,53
+281,Oregon,53
+245,Louisiana State,52
+98,Missouri,52
+83,Utah,52
+264,Arizona State,50
+132,Dayton,49
+18,Brigham Young,49
+127,Alabama,48
+198,Stanford,48
+266,San Francisco,48
+173,Bradley,48
+54,Georgia Tech,47
+44,Providence,47
+159,Wisconsin,47
+31,West Virginia,46
+47,LaSalle,46
+115,Texas,46
+29,Vanderbilt,46
+279,Florida State,45
+288,Nevada-Las Vegas,45
+109,Memphis State,44
+58,New Mexico,44
+149,Tulsa,44
+256,Long Beach State,44
+85,Connecticut,43
+185,Duquesne,43
+99,Temple,43
+79,Wake Forest,43
+244,Georgia,41
+441,Arkansas,41
+5,Virginia,40
+183,Iowa State,40
+43,Drake,39
+82,St. Bonaventure,39
+71,Jacksonville,39
+663,USC,38
+13,Florida,37
+51,Boston College,37
+399,Pittsburgh,37
+197,Pepperdine,37
+4,Seattle,35
+135,St. Louis,34
+172,Holy Cross,34
+63,Eastern Kentucky,34
+102,Bowling Green,34
+194,Santa Clara,34
+318,Auburn,33
+21,Northwestern,33
+309,Colorado,33
+171,Princeton,33
+167,Detroit,32
+193,Washington State,32
+210,Wyoming,31
+7,Utah State,31
+61,Creighton,31
+78,Grambling,31
+84,Southern California,31
+90,Nebraska,30
+119,Texas-El Paso,30
+220,Texas A&M,30
+56,Clemson,29
+17,Canisius,29
+40,Colorado State,28
+589,Xavier (OH),28
+123,Jackson State,28
+124,Manhattan,28
+502,Seton Hall,28
+70,Marshall,27
+327,Oral Roberts,26
+112,Virginia Tech,26
+8,Oklahoma State,26
+142,Niagara,26
+6,Southern Methodist,26
+313,Texas Tech,25
+181,Murray State,25
+146,Tennessee State,25
+60,Rutgers,25
+357,Loyola (IL),25
+207,George Washington,24
+10,Southern Illinois,24
+202,Toledo,23
+14,Denver,23
+22,Oklahoma City,23
+255,Pan American,23
+81,Tulane,23
+27,North Carolina A&T,22
+24,Wichita State,22
+180,Mississippi State,22
+355,Fresno State,22
+457,San Diego State,22
+1,Pacific,21
+117,Texas Christian,21
+348,Morehead State,21
+426,Illinois State,21
+219,Ohio,20
+138,North Texas State,20
+95,Long Island,20
+269,New Mexico State,20
+69,New York University,20
+182,Davidson,20
+480,Virginia Commonwealth,20
+296,Portland,19
+598,None,19
+189,Rhode Island,19
+259,Kentucky State,19
+9,Miami (FL),19
+439,Furman,19
+277,Eastern Michigan,19
+369,Hawaii,19
+188,Fordham,18
+271,Louisiana Tech,18
+491,Massachusetts,18
+156,Weber State,18
+103,Idaho State,18
+500,Gonzaga,17
+165,Central Michigan,17
+0,Baylor,17
+139,Miami (OH),17
+299,Alabama State,16
+392,Memphis,16
+665,St. Joseph's,16
+94,St. Joseph's (PA),16
+157,Kentucky Wesleyan,16
+945,Alabama-Birmingham,16
+305,Pennsylvania,16
+708,SW Louisiana,16
+428,Centenary,16
+96,Winston-Salem,15
+275,Mississippi,15
+169,Columbia,15
+144,Western Michigan,15
+378,South Alabama,15
+258,Norfolk State,15
+229,St. Francis (PA),14
+702,Southern,14
+493,Penn State,14
+534,Idaho,14
+324,Rice,14
+249,Stephen F. Austin,14
+450,Richmond,14
+30,Montana State,14
+272,San Jose State,14
+137,Evansville,14
+381,Hofstra,14
+224,West Texas State,14
+186,St. Peter's,14
+727,Northeastern,13
+794,Old Dominion,13
+923,Cal State-Fullerton,13
+359,Penn,13
+452,Harvard,13
+504,St. Mary's (CA),13
+174,Cornell,12
+267,Austin Peay,12
+134,Indiana State,12
+881,North Carolina-Charlotte,12
+175,Fairfield,12
+192,Western Carolina,12
+227,Northern Illinois,12
+97,Cheyney State,12
+373,Shaw,12
+133,Xavier,11
+574,American,11
+365,Lafayette,11
+370,Butler,11
+91,Virginia Union,11
+143,Middle Tennessee,11
+440,Sam Houston State,11
+77,Arkansas State,11
+775,California-Irvine,11
+453,Houston Baptist,10
+150,Loyola (CA),10
+334,Colgate,10
+877,New Orleans,10
+191,Guilford,10
+19,Akron,10
+605,Iona,10
+158,Delaware,9
+508,Cleveland State,9
+515,William & Mary,9
+247,Stetson,9
+962,Lamar,9
+280,Hampton Institute,9
+226,Albany State (GA),9
+429,Nevada,9
+93,Dillard,9
+1083,Slovenia,9
+108,Alcorn A&M,9
+541,Hamline,9
+505,Grand Canyon,9
+815,UC Santa Barbara,9
+214,Maryland State,9
+507,St. Mary's (TX),8
+236,Loyola (LA),8
+356,California-Riverside,8
+562,Montana,8
+634,McNeese State,8
+126,Texas Southern,8
+796,Nevada-Reno,8
+532,Wheaton,8
+570,LeMoyne,8
+371,Gardner-Webb,8
+781,Northern Arizona,8
+308,Hardin-Simmons,8
+523,Oklahoma A&M,8
+575,St. Francis (NY),8
+222,Maine,8
+905,South Florida,8
+458,Tennessee Tech,8
+400,Floridians,8
+746,Alcorn State,8
+653,Boston U,8
+268,Northern Michigan,7
+867,Drexel,7
+931,Loyola Marymount,7
+53,Central Washington,7
+335,Georgia Southern,7
+850,Tennessee-Chattanooga,7
+122,Abilene Christian,7
+246,Gustavus Adolphus,7
+11,Texas Western,7
+239,Brandeis,7
+511,High Point,7
+566,Mercer,7
+903,NE Louisiana,7
+542,Kenyon,7
+472,Chicago,7
+650,Rockhurst,7
+635,Cal State-Los Angeles,7
+494,San Diego,7
+551,Yale,7
+908,St. Louis (ABA),6
+907,Kentucky (ABA),6
+438,Catawba,6
+927,James Madison,6
+337,Ashland,6
+802,Boise State,6
+393,New York,6
+767,Puget Sound,6
+707,North Carolina-Wilmington,6
+454,Valparaiso,6
+463,Eastern Montana,6
+649,Florida Southern,6
+609,Navy,6
+592,SW Missouri State,6
+533,Siena,6
+553,Dartmouth,6
+567,NW Louisiana,6
+449,South Dakota State,6
+270,Mississippi Southern,6
+65,South Carolina State,6
+88,Oklahoma Baptist,6
+89,Bethune-Cookman,6
+179,North Carolina College,6
+59,North Dakota,6
+57,Kent State,6
+26,East Texas State,6
+588,Eastern Illinois,5
+471,Golden State,5
+473,Los Angeles,5
+479,Boston,5
+36,Prairie View,5
+539,CCNY,5
+928,Howard,5
+388,Merrimack,5
+606,West Virginia Tech,5
+254,Augusta,5
+631,Southern Mississippi,5
+338,Savannah State,5
+76,Arkansas AM&N,5
+1066,Greece,5
+1175,LSU,5
+1068,Italy,5
+1096,Croatia,5
+612,East Carolina,5
+667,East Tennessee,5
+451,Mount St. Mary's,5
+557,Loyola (MD),5
+695,Clark,5
+294,Youngstown,5
+445,Virginia State,5
+278,Philadelphia Textile,5
+147,Rocky Mountain,5
+467,Oklahoma Christian,5
+956,Wisconsin-Eau Claire,5
+276,Boston University,5
+55,Valdosta State,5
+582,SW Missouri,5
+678,Elizabeth City,5
+151,Pasadena,5
+304,Georgetown (KY),5
+465,South Dakota,5
+306,Tuskegee,5
+565,West Virginia State,5
+290,Central State (OH),5
+234,East Tennessee State,4
+1102,France,4
+527,Newberry,4
+367,Brown,4
+862,Western Georgia,4
+130,Beloit,4
+800,Linfield,4
+379,Sacred Heart,4
+1112,Yugoslavia,4
+431,Ferris State,4
+954,North Park,4
+944,Chicago State,4
+835,Ball State,4
+1135,Serbia,4
+936,Wisconsin-Green Bay,4
+1129,Spain,4
+934,Appalachian State,4
+476,Buffalo,4
+136,Rider,4
+929,Briarcliff,4
+190,Wichita,4
+497,Morgan State,4
+499,Kearney State,4
+501,Bentley,4
+358,Eau Claire State,4
+1230,Fenerbah?e ?lker (Turkey),4
+753,Lincoln,4
+687,Westminster,4
+660,West Virginia Wesleyan,4
+100,Ohio University,4
+666,Wittenberg,4
+642,Wayne State,4
+639,North Carolina Central,4
+676,Monmouth,4
+747,Albany State,4
+331,Gannon,4
+34,American International,4
+316,Santa Barbara,4
+685,Florida A&M,4
+110,Elizabeth City (NC),4
+585,Washington & Lee,4
+285,Howard Payne,4
+1142,BYU,4
+1185,Real Madrid (Spain),4
+593,Whitworth,4
+284,Wiley,4
+87,Hiram Scott,4
+252,Hanover,4
+353,St. Augustine,4
+988,Arkansas-Little Rock,4
+715,Army,3
+1045,None (Yugoslavia),3
+669,Pikeville,3
+430,Xavier (LA),3
+470,Atlanta,3
+659,Tennessee A&I,3
+726,San Francisco State,3
+1036,Mississippi Valley State,3
+809,Assumption,3
+701,Arkansas A&M,3
+206,New York Tech,3
+208,St. Peter's (NJ),3
+433,Eau Claire,3
+209,Trinity (TX),3
+447,Augustana,3
+689,SE Missouri State,3
+700,Virginia Military,3
+572,St. Thomas,3
+1117,Michigan St.,3
+963,Texas-Arlington,3
+786,Henderson State,3
+581,Lawrence,3
+555,John Carroll,3
+543,St. Francis,3
+586,Baldwin-Wallace,3
+992,Victoria (Canada),3
+975,Wright State,3
+599,Fairleigh Dickinson,3
+602,Regis,3
+162,Northern Iowa,3
+520,St. Mary's,3
+785,Wagner,3
+621,Midwestern (TX),3
+735,Midwestern,3
+164,Detroit Tech,3
+1003,Illinois-Chicago,3
+1059,Russia,3
+1004,Texas-San Antonio,3
+640,SE Oklahoma,3
+195,Nevada Southern,3
+571,Central Missouri State,3
+643,Lenoir Rhyne,3
+737,Edinboro State,3
+486,Fairmont State,3
+645,North Dakota State,3
+283,Arkansas Tech,3
+793,None (Italy),3
+260,Miami,3
+317,Tampa,3
+303,Adams State,3
+1159,CSKA Moscow (Russia),3
+273,Rio Grande,3
+1204,Union Olimpija (Slovenia),3
+874,SW Texas State,3
+377,Oglethorpe,3
+911,Alabama-Huntsville,3
+398,West Texas,3
+868,Cameron,3
+262,Mt. St. Mary's,3
+880,Armstrong State,3
+340,Baltimore,3
+394,Ouachita Baptist,3
+326,Middle Tennessee State,3
+1172,NC State,3
+328,Steubenville,3
+251,Eastern New Mexico,3
+872,Towson State,3
+946,Chaminade,3
+828,LeMoyne-Owen,3
+286,Drury,3
+25,Tennessee Wesleyan,3
+289,Springfield,3
+243,Elon,3
+859,Maryland-Eastern Shore,3
+569,Millikin,2
+1092,Germany,2
+994,Lewis (IL),2
+341,Cal State (PA),2
+600,Cornell (IA),2
+1093,Turkey,2
+604,Wofford,2
+339,Miles,2
+253,Missouri-St. Louis,2
+148,Southwest Missouri State,2
+560,River Falls Teachers,2
+1074,PAOK Greece,2
+363,Belhaven,2
+116,High Point (NC),2
+611,Franklin & Marshall,2
+550,Loyola,2
+878,Coppin State,2
+613,Concordia (MO),2
+1070,Lithuania,2
+982,Campbell,2
+596,Spring Hill,2
+360,Ripon,2
+349,Assumption (MA),2
+573,Ohio Wesleyan,2
+986,District of Columbia,2
+918,Delta State,2
+1085,College of Charleston,2
+989,New Hampshire,2
+75,St. Peters (NJ),2
+580,Springfield (MA),2
+871,Potsdam State,2
+129,Southern University,2
+993,Panhandle State,2
+1069,Iowa St.,2
+1081,Australia,2
+590,Huron,2
+125,Northeast Oklahoma,2
+342,Scranton,2
+595,SW Texas,2
+563,NW Missouri,2
+951,Robert Morris,2
+617,Hastings,2
+223,Norfolk State (VA),2
+333,UNLV,2
+749,Presbyterian,2
+671,Doane,2
+675,Brockport,2
+677,Citadel,2
+302,David Lipscomb,2
+679,Carson-Newman,2
+722,Santa Fe,2
+682,Lewis,2
+1018,Liberty Baptist,2
+301,Lamar Tech,2
+891,Wisconsin-Parkside,2
+1019,George Fox,2
+688,Lakeland,2
+690,Baldwin Wallace,2
+1034,Hartford,2
+692,Lewis & Clark,2
+1020,Wisconsin-Stevens Point,2
+696,St. Mary of the Plains,2
+697,Randolph-Macon,2
+698,Morris Brown,2
+292,Paul Quinn,2
+703,St. Michael's (VT),2
+1023,None (Soviet Union),2
+897,Millersville,2
+274,Southwestern Louisiana,2
+889,St. Mary's (Canada),2
+668,Belmont Abbey,2
+738,NE Oklahoma,2
+332,William Carey,2
+1193,Benetton Treviso (Italy),2
+623,Southwest Texas State,2
+627,College of Pacific,2
+745,Southern Colorado,2
+979,Western Oregon,2
+1195,Angelico Biella (Italy),2
+261,Louisiana College,2
+111,Southern Colorado State,2
+740,Voorhees,2
+641,Western Illinois,2
+28,Dickinson,2
+883,Drury (MO),2
+912,Georgia State,2
+651,Villa Madonna,2
+654,Pacific Lutheran,2
+728,New Haven,2
+1047,Argentina,2
+910,Illinois Wesleyan,2
+265,St. Joseph's (IN),2
+1046,Marist,2
+105,Northeast Louisiana,2
+549,NW Oklahoma,2
+568,Colorado A&M,2
+922,Wisconsin-Milwaukee,2
+811,Trenton State,2
+1239,Maccabi Tel Aviv (Israel),2
+39,Northwood Institute,2
+957,Alaska-Anchorage,2
+1113,Indian Hills CC,2
+1240,Cholet (France),2
+791,Bellarmine,2
+926,Youngstown State,2
+831,Portland State,2
+814,Quinnipiac,2
+953,Indiana State-Evansville,2
+509,Vermont,2
+462,Western Montana,2
+854,C.W. Post,2
+1140,Poland,2
+513,Rhode Island State,2
+163,Albuquerque,2
+855,St. Mary's (MD),2
+1233,Red Star Belgrade (Serbia),2
+385,Belmont,2
+204,Central Connecticut,2
+211,Rockhurst (MO),2
+846,Stonehill,2
+1235,DKV Joventut (Spain),2
+798,Buffalo State,2
+847,Westmont,2
+797,Aurora,2
+1097,UNC-Charlotte,2
+391,Dallas,2
+966,Bucknell,2
+390,Carolina,2
+456,Fayetteville,2
+1157,St. Joe's,2
+199,Valdosta,2
+940,Augustana (SD),2
+849,Missouri Southern,2
+833,Brockport State,2
+495,Missouri Western,2
+711,Augsburg,2
+386,St. Benedict's,2
+481,Cleveland,2
+784,Michigan Lutheran,2
+475,Phoenix,2
+860,West Georgia,2
+437,Lebanon Valley,2
+779,Air Force,2
+154,California State-Los Angeles,2
+535,NE Missouri State,2
+432,VPI,2
+948,Jersey City State,2
+538,Trinity,2
+977,Upsala,2
+531,Loras,2
+153,Cal Poly-San Luis Obispo,2
+74,St. Thomas (MN),2
+401,(Houston) Floridians,2
+863,Azusa Pacific,2
+978,George Mason,2
+1229,UAB,2
+545,Colby,2
+974,Fort Hays State,2
+1237,VCU,2
+530,Texas Wesleyan,2
+436,Los Angeles State,2
+519,DePauw,2
+856,Samford,2
+808,Phillips,2
+1105,China,2
+522,Bates,2
+925,Bloomfield (NJ),2
+529,Moravian,2
+1124,Brazil,2
+525,Occidental,2
+1141,Mississippi St,2
+372,Valley City,2
+924,Bethany Nazarene,2
+434,Hutchinson JC,2
+958,Lethbridge (Canada),1
+938,Biola (LA),1
+960,USC College,1
+937,Widener,1
+1257,Kentuckyc,1
+909,North Carolina St.,1
+959,North Alabama,1
+1014,California-San Diego,1
+939,Nicholls State,1
+943,Louisiana,1
+1015,Pembroke State,1
+904,Concord,1
+950,Hamilton,1
+1024,None (West Germany),1
+949,Harding (AR),1
+902,Mississippi Valley,1
+1265,Gold Coast Blaze (Australia),1
+947,Maryland-Baltimore County,1
+1022,Madrid (Spain),1
+1021,Bridgeport,1
+1016,NE Illinois,1
+952,Point Park,1
+955,Albright,1
+906,Mankato State,1
+961,Wilmington (OH),1
+942,Cypress JC,1
+1017,NW Missouri State,1
+941,Cal State-Dominguez Hills,1
+935,Pace,1
+1002,Calgary (Canada),1
+1013,Angelo State,1
+968,William Paterson,1
+969,None (Japan),1
+995,Cal State-Davis,1
+970,Thomas More (KY),1
+971,Simon Fraser (Canada),1
+915,Milligan,1
+916,East Washington State,1
+972,Lambuth (TN),1
+991,St. Augustine's,1
+917,Rutgers-Camden,1
+990,Alabama A&M,1
+973,Northern State College,1
+1258,Lietuvos Rytas (Lithuania),1
+987,None (Sudan),1
+919,Graceland,1
+1263,Bakersfield Jam (D-League),1
+985,McMurray,1
+976,S. Carolina-Spartanburg,1
+984,York (Canada),1
+983,Wisconsin-Stout,1
+981,Marion,1
+920,Johnson C. Smith,1
+921,Nebraska-Omaha,1
+980,Hellenic,1
+996,Maryland-Baltimore,1
+997,Livingston State,1
+1012,Oberlin,1
+998,Massachusetts-Boston,1
+1011,U.S. International,1
+1010,Framingham State,1
+933,Nasson,1
+1009,Bloomsburg State,1
+1008,Southern Utah State,1
+932,J.C. Smith,1
+1007,Cal State-Northridge,1
+1261,Tokyo Apache (Japan),1
+930,Columbus (GA),1
+913,Prairie View A&M,1
+1260,Fuenlabrada (Spain),1
+1264,Al Rayyan (Qatar),1
+964,Yeshiva,1
+1006,Cal State-Long Beach,1
+1005,None (Brazil),1
+965,Kings (PA),1
+914,McKendree,1
+1001,Longwood (VA),1
+1259,Partizan (Serbia),1
+1262,Oakland,1
+967,Texas A&I,1
+1000,East Oregon State,1
+999,Florida International,1
+1025,Union (KY),1
+1080,Mount Zion (NC) Academy,1
+1026,Akademik Varna (Bulgaria),1
+1164,Cal State Fullerton,1
+1153,Prentiss HS (MS),1
+1154,Oak Hill Academy HS (VA),1
+1155,St. Benedict's Prep (NJ),1
+1156,South Kent HS (CT),1
+1158,Varese (Italy),1
+1160,Puerto Rico,1
+1161,Southeastern,1
+1162,Florida St.,1
+1163,South Korea,1
+1165,Morehead St.,1
+1151,Bakersfield (CA) HS,1
+1227,IUPUI,1
+1226,Le Mans (France),1
+1166,Denmark,1
+1167,Jakutsk (Russia),1
+1168,"Seattle Prep. School (Seattle, WA) HS",1
+1225,L'Hospitalet (Spain),1
+1224,Hy?res-Toulon (France),1
+1169,"St. Joseph HS (Metuchen, NJ) HS",1
+1170,Unicaja Malaga (Spain),1
+1152,Lincoln HS (NY),1
+1150,Skonto Riga (Latvia),1
+1027,College of Idaho,1
+1139,Ozen HS (TX),1
+1131,Ourense (Spain),1
+1236,Lottomatica Roma (Italy),1
+1132,Tau Ceramica (Spain),1
+1133,Central Connecticut State,1
+1134,St. Mary / St. Vincent (Ohio) HS,1
+900,Florida Tech,1
+1136,Central Mich,1
+1137,Starkville HS (MS),1
+1138,Westbury Christian HS (TX),1
+1234,Idaho Stampede (D-League),1
+1149,Peoria Central HS (IL),1
+1232,KK Zagreb (Croatia),1
+1231,Cairns Taipans (Australia),1
+1228,Panathinaikos (Greece),1
+1143,Senegal,1
+1144,Central Park Christian HS (Ala),1
+1145,Miami Fla,1
+1146,Arizona St,1
+1147,Bosnia,1
+1148,Southwest Christian Acad. (GA),1
+1171,"Gulf Shores Academy (Houston, TX) HS",1
+1173,Pau-Orthez (France),1
+1223,Olimpia Milano (Italy),1
+1203,WTC Cornell? (Spain),1
+1215,SK Cherkassy (Ukraine),1
+1194,Verviers-Pepinster (Belgium),1
+1196,BC Kyiv (Ukraine),1
+1197,Adecco Estudiantes (Spain),1
+1198,Gran Canaria (Spain),1
+1199,Partizan Belgrade (Serbia),1
+1200,Objetivo S?o Carlos (Brazil),1
+1201,Hapoel Galil Elyon (Israel),1
+1202,Dynamo St. Petersburg (Russia),1
+1205,Union Bank Lagos (Nigeria),1
+1174,Le Havre (France),1
+1206,ASA BH Telecom (Bosnia and Herzegovina),1
+1207,PAOK (Greece),1
+1208,Cibona Zagreb (Croatia),1
+1209,Guangdong Southern Tigers (China),1
+1210,Eastern Washington,1
+1211,Fortitudo Bologna (Italy),1
+1212,Joventut Badalona (Spain),1
+1214,Tapiolan Honka (Finland),1
+1213,TAU Cer?mica (Spain),1
+1192,Efes Pilsen (Turkey),1
+1191,Snaidero Udine (Italy),1
+1190,RheinEnergie K?ln (Germany),1
+1189,"Westchester HS (Los Angeles, CA) HS",1
+1176,"Skyline HS (Dallas, TX) HS",1
+1177,"IMG Academy (Bradenton, FL) HS",1
+1222,Mega Ishrana (Serbia),1
+1221,Olympia Larissa (Greece),1
+1220,Townsville Crocodiles (Australia),1
+1219,Maroussi (Greece),1
+1178,?lkerspor (Turkey),1
+1179,"Lanier HS (Jackson, MS) HS",1
+1218,Akasvayu Girona (Spain),1
+1180,KK Split (Croatia),1
+1181,KK Reflex (Serbia and Montenegro),1
+1182,?algiris (Lithuania),1
+1217,Beijing Olympians (ABA),1
+1216,?iroki Brijeg (Bosnia and Herzegovina),1
+1183,"South Gwinnett HS (Snellville, GA) HS",1
+1184,Climamio Bologna (Italy),1
+1186,"South Kent Prep. School (South Kent, CT) HS",1
+1187,Walsh (),1
+1188,Louisiana-Lafayette (),1
+1130,Opel Skyliners,1
+1128,Kinder Bologna,1
+1127,Forward,1
+1062,Benedict (SC),1
+1054,Partizan,1
+1055,Pau Orthez (Romania),1
+1056,None (Argentina),1
+1057,Missouri-Kansas City,1
+1058,NW Oklahoma State,1
+1254,CB Gran Canaria (Spain),1
+1253,Tulsa 66ers (D-League),1
+1060,St Mary's (Canada),1
+1061,St John's,1
+1063,Ohio St,1
+1251,Ole Miss,1
+1064,Belgrade (Yugoslavia),1
+1065,Farragut Academy (IL),1
+1067,Seward Couty CC,1
+1071,Georgetown (DC),1
+1072,Memphis (TN),1
+1073,Lower Merion (PA) HS,1
+1075,Eau Claire (SC) HS,1
+1252,CB Murcia (Spain),1
+1076,Kalev Tallin (Estonia),1
+1053,Christopher Newport,1
+1052,Slippery Rock,1
+1255,STB Le Havre (France),1
+1051,Elizabeth City State,1
+1028,SE Oklahoma State,1
+1029,Zagreb (Yugoslavia),1
+1030,Southwestern (TX),1
+1031,Kiev Institute (Soviet Union),1
+1032,Dyke (OH),1
+1033,David Lipscomb (TN),1
+1035,(Soviet Union),1
+1037,Central Arkansas,1
+1038,Millersville State,1
+1039,None (China),1
+1040,None (Greece),1
+1041,Barcelona (Spain),1
+1042,Vilnius Lithuania (Soviet Union),1
+1043,Virginia Military Institute,1
+1044,Turin (Italy),1
+1048,Trinity Valley,1
+1049,Virtus Roma (Yugoslavia),1
+1050,Benetton Treviso (Yugoslavia),1
+1256,UTEP,1
+1077,Central St/Greece,1
+1078,West Florida,1
+1126,Northeast Mississippi CC,1
+1114,Glynn Academy HS,1
+1106,St. Paul's (VA),1
+1107,East St Louis (IL) HS,1
+1108,Washington Union (CA) HS,1
+1109,Louisiana-Monroe,1
+1110,Nigeria,1
+1111,College of Sequoias,1
+1243,"BC Dnipro (Ukraine, 2nd div.)",1
+1242,Central Florida,1
+1241,"CB Prat (Spain, 3rd div.)",1
+1115,Dominguez HS,1
+1079,Mississippi Valley St,1
+1116,Thornwood HS,1
+1118,Oak Hill Academy HS,1
+1119,Charlotte,1
+1120,Okaloosa-Walton CC,1
+1121,SMU,1
+1122,St. Jude HS,1
+1123,Shanghai Sharks,1
+1238,Pamesa Valencia (Spain),1
+1125,Cypress Creek HS (Fla.),1
+1104,Martin Luther King (IL) HS,1
+1103,Augsburg (MN),1
+1244,MB? Mykolaiv (Ukraine),1
+1245,Saint Mary's (CA),1
+1250,Brose Baskets (Germany),1
+1082,Southern Cal,1
+1084,Cal State Bakersfield,1
+1086,Butler County (KS) CC,1
+1087,Partizan-Belgrade,1
+1249,USF,1
+1248,Cholet Basket (France),1
+1247,Tennessee-Martin,1
+1088,Villeurbanne-France,1
+1089,Indian Hills (IA) CC,1
+1090,FC Barcelona-Spain,1
+1091,Saint Louis,1
+1094,St. Patrick's HS,1
+1095,Alief Elsik HS,1
+1098,Hargrave Military Acadamy,1
+1246,Saint Joseph's,1
+1099,Picayune (MS) HS,1
+1100,Miami(OH),1
+1101,Barton County CC,1
+901,Salem (WV),1
+633,Tennessee Polytechnic,1
+899,Hartwick,1
+415,(Southern Illinois) Floridians,1
+417,(Davidson) Pittsburgh,1
+418,(Missouri) Floridians,1
+419,(Louisville) Floridians,1
+420,(Manhattan redshirt) Pittsburgh,1
+421,(Lemoyne - Owen) Pittsburgh,1
+422,(Texas Tech) Floridians,1
+423,(West Texas State redshirt) Floridians,1
+424,(Hawaii) Floridians,1
+427,Southwest Louisiana,1
+435,Boston U.,1
+442,College of Emporia,1
+443,Stonehill (MA),1
+444,Bethel,1
+446,Skagit Valley JC (WA),1
+448,S.W. Louisiana,1
+455,Yankton (SD),1
+459,Virginia State (redshirt),1
+460,Wichita State (redshirt),1
+461,Denver (redshirt),1
+416,(Oklahoma) Floridians,1
+414,(West Virginia) Pittsburgh,1
+466,Bridgewater State (MA),1
+413,(Kentucky Wesleyan) Floridians,1
+382,St. Johns,1
+383,Nazarene,1
+384,Lemoyne-Owen Bryan,1
+387,Manhattan (redshirt),1
+389,Mexico,1
+395,California State - Los Angeles,1
+396,California State,1
+397,Hardin-Simmons (redshirt),1
+402,(Long Beach State) Pittsburgh,1
+403,(UCLA redshirt) Floridians,1
+404,(Santa Clara redshirt) Floridians,1
+405,(Texas,1
+406,(Pacific) Pittsburgh,1
+407,(Jacksonville) Floridians,1
+408,(St. Benedict's) Pittsburgh,1
+409,(Southern California) Pittsburgh,1
+410,(Wyoming) Floridians,1
+411,(Lafayette) Floridians,1
+412,(California Riverside) Floridians,1
+464,Illinois (redshirt),1
+468,N.E. Massachusetts,1
+376,Vanderbilt (redshirt),1
+521,Springfield College,1
+526,Humboldt State,1
+528,Whittenberg,1
+536,East Central State,1
+537,Kansas Wesleyan,1
+540,Washington U. (MO),1
+544,Denver JC,1
+546,Missouri Valley,1
+547,Emporia State,1
+548,Southwest Missouri,1
+552,Muhlenberg,1
+554,NE Missouri,1
+556,East Central Oklahoma,1
+558,Southwestern (KS),1
+559,Morris Harvey,1
+561,Appalachian,1
+564,Swarthmore,1
+576,Indiana Central,1
+577,Arkansas Polytechnic,1
+578,King's,1
+524,Colorado/Wyoming,1
+518,Washington & Jefferson,1
+469,Hardin,1
+517,York,1
+474,Capitol,1
+477,Philadelphia,1
+478,West Georgia State,1
+482,Detroit:,1
+483,Petersburg HS (VA),1
+484,Southern Idaho,1
+485,Maryland Eastern Shore,1
+487,Aurora (IL),1
+488,Hardin Simmons,1
+489,Winston Salem,1
+490,Nevada Las Vegas,1
+492,Gardner Webb,1
+496,Carson Newman,1
+498,Dwight Morrow H.S. Englewood NJ,1
+503,Ohio U.,1
+506,Randolph,1
+510,NE Missouri State Teachers College,1
+514,Findlay,1
+516,Norfolk Naval Training Center,1
+380,Marshall (redshirt),1
+375,Nichols State,1
+898,Mercyhurst,1
+161,Cedarville (OH),1
+176,Massacusetts,1
+177,Lenoir-Rhyne,1
+178,Eastern Carolina,1
+187,C. W. Post,1
+200,Carroll (MT),1
+201,Stout (WI),1
+203,Milliken,1
+205,Missouri at St. Louis,1
+212,Central (OH) State,1
+213,Jackson State (MS),1
+215,Mercer (GA),1
+216,Troy State (AL),1
+217,Mt. St. Mary's (MD),1
+221,Fairmont State (WV),1
+225,Westmar (IA),1
+228,Biscayne (FL),1
+230,Xavier (Ohio),1
+231,Cheney State (PA),1
+232,Winston - Salem,1
+166,St. Cloud (MN),1
+160,St. Benedict (KS),1
+235,Delta State (MS),1
+152,Texas-EI Paso,1
+12,Colorado State University,1
+32,Pan-American,1
+35,Otterbein,1
+48,Rockburst,1
+52,Midwestern University,1
+62,Kentucky Western,1
+67,Virginia Poly Institute,1
+73,Amherst,1
+80,Tennessee.,1
+106,Westminster (Utah),1
+107,Albany (GA) State,1
+113,Southeastern Louisiana,1
+114,Lane College,1
+118,Central Missouri,1
+120,American University,1
+128,Howard - Payne,1
+131,St. Marys of the Plains,1
+141,Pembroke,1
+145,Southeast Missouri,1
+233,Cheyney (PA) State,1
+237,Northwestern Louisiana,1
+374,Penn Military,1
+321,Southwest Oklahoma,1
+323,Henderson,1
+325,Lemoyne,1
+329,Southern State,1
+330,Suffolk (MA),1
+336,St. John's (redshirt),1
+343,Indiana State (PA),1
+344,Jackson State (redshirt),1
+345,Montclair State,1
+346,Mt. St. Mary's.,1
+347,Colorado State (redshirt),1
+350,Tulsa (redshirt),1
+351,Oklahoma:,1
+352,Fayetteville State,1
+354,Illinois Sate,1
+361,Murray State (KY),1
+362,Santa Clara (redshirt),1
+364,UCLA (redshirt),1
+366,West Texas State (redshirt),1
+368,Westmont (redshirt),1
+322,E. Carolina,1
+320,St. Leo College (FL),1
+240,Grove City (PA),1
+319,DePauw (redshirt),1
+241,Southhampton (NY),1
+242,Morehead State (KY),1
+248,Ashland State,1
+250,Yankon,1
+257,Fort Valley State (GA),1
+282,McMurry College,1
+287,Ashland (CO),1
+291,Adams State (CO),1
+293,Carson - Newman,1
+295,Northwest Louisiana State,1
+297,Adolphus Broadus,1
+298,West New England,1
+300,Kentucky State (redshirt),1
+307,Northwest Oklahoma,1
+310,East New Mexico,1
+311,Central State (Ohio),1
+312,E. New Mexico State,1
+314,No. Texas State,1
+315,Los Angeles Baptist,1
+579,Ithaca,1
+583,Western Maryland,1
+584,New Mexico A&M,1
+790,None (Mexico),1
+795,Huston-Pillotson,1
+799,Alderson Broaddus,1
+801,McKendress,1
+803,Fort Valley,1
+804,Azusa,1
+805,Concordia,1
+806,St. Mary's (Kansas),1
+807,SW Oklahoma State,1
+810,NE Oklahoma State,1
+812,Whittier,1
+813,St. Leo's,1
+816,New Hampshire College,1
+817,LSU/New Orleans,1
+818,Delaware Valley,1
+819,Columbus College,1
+820,Suffolk,1
+821,J. C. Smith,1
+822,Grant Falls,1
+823,Bishop,1
+792,Tufts,1
+789,Fisk,1
+825,Mexico City,1
+788,Yankton,1
+762,Sacramento State,1
+763,Transylvania,1
+764,San Fernando Valley State,1
+765,Southampton,1
+766,Carthage,1
+768,Boston State,1
+769,LaVerne,1
+770,St. John Fisher,1
+771,Seattle Pacific,1
+772,Riverside,1
+773,Shephard,1
+774,West Mexico,1
+776,Robert Morris JC,1
+777,Tougaloo,1
+778,Jacksonville (AL),1
+780,Acadia,1
+782,Fort Valley State,1
+783,Windham,1
+787,Sul Ross,1
+824,Wisconsin State,1
+826,Soputhern California,1
+760,Grove City,1
+864,Pacific (OR),1
+866,Huntington (IN),1
+869,Upper Iowa,1
+870,Missouri-Rolla,1
+873,Chattanooga,1
+875,Maynard Evans (FL) HS,1
+876,Dwight Morrow (NJ) HS,1
+879,Bishop (TX),1
+882,Winona State,1
+884,Willamette,1
+885,Barber Scotia,1
+886,Morningside,1
+887,Soviet Union,1
+888,McAlister,1
+890,Virginia Polytechnic,1
+892,UC-Santa Barbara,1
+893,Marymount,1
+894,Biscayne,1
+895,East Illinois,1
+896,Malone,1
+865,Roanoke,1
+861,Indiana (PA),1
+827,Eastern Kentucky State,1
+858,British Columbia,1
+829,PMC Colleges,1
+830,South Alabama State,1
+832,Cheyney,1
+834,Morehouse,1
+836,West Liberty State,1
+837,Benedictine,1
+838,Paine College,1
+839,U. of Missouri (St. Louis),1
+840,U. of North Carolina,1
+841,Loyola (Md.),1
+842,Nicholas State,1
+843,Hopkins,1
+844,W. Montana,1
+845,Bethel (TN),1
+848,Northwood Michigan,1
+851,Bridgewater State,1
+852,Elmhurst,1
+853,Bay College,1
+857,Bethune Cookman,1
+761,Westmar,1
+759,Houston Tillotson,1
+587,West Liberty,1
+632,Cooper Union,1
+637,Georgia State Teachers,1
+638,New Bedford State,1
+644,St. Michael's,1
+646,Dakota Wesleyan,1
+647,Macalaster,1
+648,Northwestern State,1
+652,Coe,1
+655,Davis & Elkins,1
+656,Superior State,1
+657,Hope,1
+658,St. Cloud State,1
+661,Southwest Texas,1
+662,Christian Brothers,1
+664,Mississippis Southern,1
+670,Aberdeen,1
+672,Wabash,1
+673,Wisconsin State Teachers,1
+674,Hancock,1
+680,University of Minnesota Duluth,1
+636,Murray State Teachers,1
+630,Marietta,1
+758,Stout State,1
+629,Alderson-Broaddus,1
+591,Union (TN),1
+594,Lousiville,1
+597,Clarion State,1
+601,River Falls State,1
+603,Nick McGuire,1
+607,St. Anselm's,1
+608,St. Benedict,1
+610,Washington (MO),1
+614,Lycoming,1
+615,Brooklyn Polytechnic,1
+616,Taylor,1
+618,???,1
+619,McNeese,1
+620,North Central (IL),1
+622,Western Reserve,1
+624,Mississippi College,1
+625,St. Ambrose,1
+626,Northeast Missouri State,1
+628,Adelphi,1
+681,Pratt,1
+683,Williams,1
+684,California Tech,1
+725,Lowell Tech,1
+730,Colgate College,1
+731,New Mexico Highlands,1
+732,Erskine,1
+733,Minnesota-Morris,1
+734,South Carolina A&T,1
+736,Momingside,1
+739,Kentucky Weslyan,1
+741,Chaney State,1
+742,Dickinson State,1
+743,Hillsdale,1
+744,Pasadena College,1
+748,Rochester Institute,1
+750,Lane,1
+751,Oshkosh State,1
+752,Western Louisiana,1
+754,Hillside,1
+755,Cal State,1
+756,SE Louisiana,1
+757,Central Washington State,1
+729,California Western,1
+724,Lincoln (MO),1
+686,SW Kansas,1
+723,Otterbeing,1
+691,State College of Iowa,1
+693,North Carolina A&M,1
+694,Chapman,1
+699,George Williams,1
+704,Long Beach College,1
+705,Central State,1
+706,Alliance,1
+709,Hiram,1
+710,Fenn,1
+712,Benedict,1
+713,Fairchild,1
+714,Idaho College,1
+716,Rochester,1
+717,Wilberforce,1
+718,Pan America,1
+719,Omaha,1
+720,Nevade Southern,1
+721,Jackson State Teachers,1
+1266,Assignia Manresa (Spain),1
+512,,0
